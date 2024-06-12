@@ -176,6 +176,7 @@ footer a {
 
 @media (max-width: 600px) {
   body {
+    max-width: 600px;
     font-size: 1em;
     display: flex;
     flex-direction: column;
