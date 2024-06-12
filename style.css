@@ -194,11 +194,10 @@ footer a {
   }
   #top-menu-bar a {
     display: block;
-    /* background: red; */
+    font-size: 0.9rem;
     color: white;
   }
   #top-menu-bar a:hover {
-    font-size: 1rem;
     background: white;
     border-right: 2px solid white;
   }
