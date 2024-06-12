@@ -96,6 +96,10 @@ h2 {
   border-right: 2px solid white;
   border-top: 2px solid white;
 }
+.veggies {
+  height: 200px;
+  width: 300px;
+}
 
 #title img {
   border-radius: 10px;
