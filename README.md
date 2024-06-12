@@ -1,3 +1,3 @@
-# chissimona
+# chis simona
 
-## new project
+(live)[ https://sabovoichita.github.io/chissimona/]
