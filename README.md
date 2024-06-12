@@ -1,3 +1,3 @@
 # chis simona
 
-(live)[https://sabovoichita.github.io/chissimona/]
+[chissimona](https://sabovoichita.github.io/chissimona/)
