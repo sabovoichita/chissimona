@@ -236,4 +236,7 @@ footer a {
     grid-template-columns: auto auto;
     gap: 20px;
   }
+  footer {
+    padding-bottom: 20px;
+  }
 }
